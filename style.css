@@ -1,0 +1,48 @@
+ body
+{text-align: center;}
+ 
+ #hero 
+ {width: 592px;
+margin: 0px auto 72px;}
+
+#hero img    {margin-bottom: 72px;}
+
+ h1 { font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    font-weight: normal;
+    line-height: 56px;}
+
+h1 span { font-weight: bold;}
+    
+ 
+ p {font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 28px;}
+
+ span, a {color: #f90;}
+
+p {color: #7D7987;}
+
+strong { color: black;} 
+
+#footer {color: #f90;
+font-weight: bold;}
+
+#footer a + a {margin-left: 28px;}
+
+#line {
+    width: 568px;
+    height: 0px;
+    border: 1px solid chocolate;
+    margin: auto;
+}
+
+#balls
+{width: 98.394px;
+    height: 88.001px;
+    flex-shrink: 0;}
+
+#balls
+{ position: fixed;
+bottom: 0px;
+right: 0px;}
